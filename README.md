@@ -1,9 +1,10 @@
-# converter
-.txt file creator to save image name and excel to json and json to excel converter
+# Convertidor
+Creador de archivos .txt para guardar el nombre de la imagen y convertir excel a json y json a excel
 
-## How to use ##
-- To save the name of the images, click on the button and all the images are selected. They can be saved with or without the extension.
+## Cómo utilizar ##
+- Para guardar el nombre de las imágenes se pulsa en el botón y se seleccionan todas las imágenes. Se pueden guardar con o sin la extensión.
 
-- To create a file from an excel to json you must press the excel to json button and select the file.
+- Para crear un archivo de un excel a json debes presionar el botón excel a json y seleccionar el archivo.
 
-- To create a file from a json to excel you must press the json to excel button and select the file.
+- Para crear un archivo desde un json para excel debes presionar el botón json para excel y seleccionar el archivo.
+
